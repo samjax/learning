@@ -8,3 +8,5 @@ public class hello
     System.out.println("Adding this for a new branch")
   }
 }
+
+New line proposed by Raj jax..hehe.
